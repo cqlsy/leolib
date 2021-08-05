@@ -1,4 +1,4 @@
-module github.com/lsy/yeelib
+module github.com/cqlsy/yeelib
 
 go 1.16
 

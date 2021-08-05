@@ -5,8 +5,8 @@ import (
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
 	"io/ioutil"
-	config "github.com/lsy/yeelib/conf"
-	"github.com/lsy/yeelib/yeelog"
+	config "github.com/cqlsy/yeelib/conf"
+	"github.com/cqlsy/yeelib/yeelog"
 	"net/http"
 	"time"
 )

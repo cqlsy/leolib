@@ -2,7 +2,7 @@ package server
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/lsy/yeelib/yeefile"
+	"github.com/cqlsy/yeelib/yeefile"
 )
 
 type File struct {

@@ -1,9 +1,9 @@
 package yeeDb
 
 import (
-	config "github.com/lsy/yeelib/conf"
-	"github.com/lsy/yeelib/yeeDb/mog"
-	"github.com/lsy/yeelib/yeelog"
+	config "github.com/cqlsy/yeelib/conf"
+	"github.com/cqlsy/yeelib/yeeDb/mog"
+	"github.com/cqlsy/yeelib/yeelog"
 	"testing"
 )
 
