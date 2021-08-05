@@ -2,11 +2,11 @@ package main
 
 import (
 	"github.com/gobuffalo/packr"
-	config "lib/conf"
-	"lib/webGin"
-	"lib/yeeDb"
-	"lib/yeeGin"
-	"lib/yeelog"
+	config "github.com/lsy/yeelib/conf"
+	"github.com/lsy/yeelib/webGin"
+	"github.com/lsy/yeelib/yeeDb"
+	"github.com/lsy/yeelib/yeeGin"
+	"github.com/lsy/yeelib/yeelog"
 )
 
 const configPath = "./config.json"

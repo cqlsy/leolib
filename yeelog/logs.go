@@ -11,8 +11,8 @@ package yeelog
 import (
 	"github.com/sirupsen/logrus"
 	"io/ioutil"
-	"lib/yeefile"
-	"lib/yeetime"
+	"github.com/lsy/yeelib/yeefile"
+	"github.com/lsy/yeelib/yeetime"
 	"os"
 	"runtime"
 	"sync"

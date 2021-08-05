@@ -1,11 +1,11 @@
 package webGin
 
 import (
-	config "lib/conf"
-	"lib/webGin/server"
-	"lib/yeeDb"
-	"lib/yeeGin"
-	"lib/yeefile"
+	config "github.com/lsy/yeelib/conf"
+	"github.com/lsy/yeelib/webGin/server"
+	"github.com/lsy/yeelib/yeeDb"
+	"github.com/lsy/yeelib/yeeGin"
+	"github.com/lsy/yeelib/yeefile"
 )
 
 // 我们使用这个来保存web服务需要的实例

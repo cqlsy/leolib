@@ -1,8 +1,8 @@
 package yeeDb
 
 import (
-	config "lib/conf"
-	"lib/yeeDb/mog"
+	config "github.com/lsy/yeelib/conf"
+	"github.com/lsy/yeelib/yeeDb/mog"
 	"strings"
 )
 

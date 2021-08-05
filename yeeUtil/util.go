@@ -1,7 +1,7 @@
 package yeeUtil
 
 import (
-	"lib/yeecrypto"
+	"github.com/lsy/yeelib/yeecrypto"
 	"math/rand"
 	"strconv"
 	"strings"

@@ -2,8 +2,8 @@ package yeefile
 
 import (
 	"io"
-	"lib/yeeUtil"
-	"lib/yeetime"
+	"github.com/lsy/yeelib/yeeUtil"
+	"github.com/lsy/yeelib/yeetime"
 	"mime/multipart"
 	"os"
 	"strings"
