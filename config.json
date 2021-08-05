@@ -1,0 +1,17 @@
+{
+  "db": {
+    "host": "192.168.56.101",
+    "port": "8666",
+    "db": "explorerDB",
+    "user": "explorer",
+    "password": "123456",
+    "protocol": "mongodb"
+  },
+  "web": {
+    "runMode": "dev",
+    "ip": "0.0.0.0",
+    "port": 9999,
+    "SaveFilePath": "./data/file",
+    "LogPath": "./data/log"
+  }
+}
