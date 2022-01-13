@@ -1,10 +1,10 @@
 {
   "db": {
-    "host": "192.168.56.101",
-    "port": "8666",
-    "db": "explorerDB",
-    "user": "explorer",
-    "password": "123456",
+    "host": "192.168.0.177",
+    "port": "27017",
+    "db": "life",
+    "user": "life",
+    "password": "zaq1xsw2",
     "protocol": "mongodb"
   },
   "web": {
@@ -12,6 +12,7 @@
     "ip": "0.0.0.0",
     "port": 9999,
     "SaveFilePath": "./data/file",
-    "LogPath": "./data/log"
+    "LogPath": "./data/log",
+    "picDoMain": "http://192.168.0.150:9999"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "192.168.56.101",
+    "port": "8666",
+    "db": "explorerDB",
+    "user": "explorer",
+    "password": "123456",
+    "protocol": "mongodb",
+    "collections": {
+    }
+  }
+}
